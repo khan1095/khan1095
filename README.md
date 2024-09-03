@@ -38,28 +38,8 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://img.freepik.com/premium-photo/picture-cartoon-programmer-man-sitting-front-computer-smiling_1234686-451.jpg?w=740"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/khan95/khan95/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/khan95/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
