@@ -62,31 +62,6 @@
 </a>
 
 <hr>
-
-<h2 align="center">Repositories</h2>
-
-<p align="center">
-  <a href="https://github.com/khan1095/Apple_website" title="Apple_website">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khan1095&repo=Apple_website&theme=gotham">
-  </a>
-  <a href="https://github.com/khan1095/Theme-Switcher" title="Theme-Switcher">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khan1095&repo=Theme-Switcher&theme=gotham">
-  </a>
-  <a href="https://github.com/khan1095/Express" title="Express">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khan1095&repo=Express&theme=gotham">
-  </a>
-  <a href="https://github.com/khan1095/Currency-Converter" title="Currency-Converter">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khan1095&repo=Currency-Converter&theme=gotham">
-  </a>
-  <a href="https://github.com/khan1095/Todo-App" title="Todo-App">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khan1095&repo=Todo-App&theme=gotham">
-  </a>
-</p>
-<br>
-<h4 align="center">
-  <a href="https://github.com/khan1095?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 <p align="center">
   ⭐️ From <a href="https://github.com/khan1095">khan1095</a>
 </p>
