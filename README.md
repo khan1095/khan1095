@@ -1,8 +1,9 @@
-<h3 align="center">Hello there, I'm Mohammad Yunus Khan 👋</h3>
+<h1 align="center">Hello there, I'm Mohammad Yunus Khan 👋</h1>
 <br>
 
 <p align="center">
-  Hi, I'm Mohammad Yunus Khan, a Computer Science Engineer, MERN Stack Developer, and Machine Learning enthusiast from India.
+    A Computer Science Engineer, MERN Stack Developer, and Machine Learning enthusiast from India.
+  </strong>
   <br><br>
   🎓 I graduated from the Indian Institute of Information Technology, Kota, in the Computer Engineering Department.  
   <br>
